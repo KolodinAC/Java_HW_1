@@ -1,4 +1,6 @@
 package Java_sem_1.Java_HW_1;
+// Вывести все простые числа от 1 до 1000
+
 
 import java.util.ArrayList;
 import java.util.List;
