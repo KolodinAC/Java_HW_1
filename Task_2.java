@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class hw_2 {
+public class Task_2 {
     public static void main(String[] args){
         Scanner iScanner = new Scanner(System.in);
         System.out.print("Введите положительное число до которого выводить простые числа: ");

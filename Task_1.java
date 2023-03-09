@@ -9,7 +9,7 @@ import java.util.Scanner;
 n! 1 * 2 * 3 * 4 * 5 = 120 */
 
 
-public class hw_1 {
+public class Task_1 {
     public static void main(String[] args){
         Scanner iScanner = new Scanner(System.in, "Cp866");
         System.out.print("Введите число n: ");
